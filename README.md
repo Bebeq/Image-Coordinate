@@ -1,2 +1,2 @@
 # Image-Coordinate
-Script to find coordinat in image
+Script to find coordinate in image
